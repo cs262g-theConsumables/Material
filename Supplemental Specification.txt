@@ -1,0 +1,5 @@
+Supplemental Specification
+	-Only Calvin students can use the app
+	-Must be a student to use the app
+	-The app should function on android devices
+	-We have a live server tracking data
