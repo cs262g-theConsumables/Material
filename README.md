@@ -1,4 +1,4 @@
-# material
+# Materials for Calvin Dating App
 This repo houses the materials that we will use to plan out our work and code.
 
 Thank You Stakeholders!
