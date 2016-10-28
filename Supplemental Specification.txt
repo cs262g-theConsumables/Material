@@ -1,5 +1,8 @@
 Supplemental Specification
-	-Only Calvin students can use the app
-	-Must be a student to use the app
-	-The app should function on android devices
-	-We have a live server tracking data
+--------------------------
+-Only Calvin students can use the app
+-Compatable on all Android devices, not IOS
+-Using the app results in relationships
+-A user's profile is secure and doesn't allow for fake profiles
+-The app is free from charge.
+-Not open source. This coould lead to tampering with results.
