@@ -51,6 +51,6 @@ Presentation Materials
 ------------------------
 - This section includes the presentation materials for your two team presentations.
 
-- [] The System
+The System
 ------------------------
 - This section should allow a user to get a copy of your system (or system prototype), including on-line documentation, and install it in their own environment.
