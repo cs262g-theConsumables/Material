@@ -36,8 +36,8 @@ Each section should summarizes the key architectural decisions documented in tha
 Supplemental Specifications 
 ------------------------
 1. Non-functional requirements
--Only Calvin students can use the app
--Compatable on all Android devices, not IOS
+* Only Calvin students can use the app
+* Compatable on all Android devices, not IOS
 -Using the app results in relationships
 -A user's profile is secure and doesn't allow for fake profiles
 -The app is free from charge.
