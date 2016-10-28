@@ -25,7 +25,7 @@ Materials Repo  -> https://github.com/cs262g-theConsumables/Material
 
 N+1 Architectural Views 
 ------------------------
-— This section provides a variety of views of the system architecture, based on what the Unified Process calls a Software Architecture Document (SAD). This semester, we'll set N=4 by including the following views:
+- This section provides a variety of views of the system architecture, based on what the Unified Process calls a Software Architecture Document (SAD). This semester, we'll set N=4 by including the following views:
 - User View (the +1 view)
 - Logical View
 - Data View
@@ -36,12 +36,12 @@ Each section should summarizes the key architectural decisions documented in tha
 Supplemental Specifications 
 ------------------------
 1. Non-functional requirements
-    -Only Calvin students can use the app
-    -Compatable on all Android devices, not IOS
-    -Using the app results in relationships
-    -A user's profile is secure and doesn't allow for fake profiles
-    -The app is free from charge.
-    -Not open source. This coould lead to tampering with results.
+    1. Only Calvin students can use the app
+    2. Compatable on all Android devices, not IOS
+    3. Using the app results in relationships
+    4. A user's profile is secure and doesn't allow for fake profiles
+    5. The app is free from charge.
+    6. Not open source. This coould lead to tampering with results.
 2. Test Suite — This test suite specifies how you will test your system and reports on how the testing went, including:
 3. Unit testing of your system modules (at levels 0 and 1) (if required by the instructor)
 4. System testing of your system functions (at levels 1 and 2)
