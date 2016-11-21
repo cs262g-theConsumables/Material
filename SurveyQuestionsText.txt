@@ -4,32 +4,32 @@ CS 262
 13 October 2016
 Survey Questions
 Introduction Questions:
-1.	What is your full name?
+1.	What is your full name (For registration purposes only)?
 2.	What is your birthday?
 3.	What is your major?
-4.	What year did you start college?
+4.	What is your current class standing?
 5.	What is your religious background?
-6.	What is your MBTI results?
-7.	Do you have a job?
-8. What is your job?
-9. What is your prefered username?
-10. What year will you graduate Calvin?
-11. What month will you graduate Calvin?
-12. What country are you from?
-13. If applicable, what state are you from?
-14. What city are you from?
+6.	What is your Meyers Briggs personality type?
+*7.	Do you have a job?
+*8. What is your job?
+9. What is your username?
+*10. What year will you graduate Calvin? **(Mark for deletion)**
+*11. What month will you graduate Calvin? **(Mark for deletion)**
+*12. What country are you from?
+*13. If applicable, what state are you from?
+*14. What city are you from?
 Calvin Questions:
 1.	Please give the Five Points of Calvinism (aka. TULIP).
-2.	Would you rather hang out in Johnny's, Department Lounges, Home, Fitness Center or the library?
+2.	Would you rather hang out in Johnny's, Department Lounges, Home, Fitness Center or the library? **(Needs to be changed)**
 3.	On a scale of 1-10 (1 meaning: “Go Flying Dutchmen”; 10 meaning “Burn Flying Dutchmen”), 
 how much do you passionately dislike Hope College?
-4.	How many times per week do you get B-Quiv?
+*4.	How many times per week do you get B-Quiv?
 5.	Which dining hall do you prefer?
-6.	What is your favorite Calvin sports team?
-7.	On a scale of 1-10 (1 meaning “This is cool”; 10 meaning “Cut it off”), how do you feel about 
+*6.	What is your favorite Calvin sports team?
+*7.	On a scale of 1-10 (1 meaning “This is cool”; 10 meaning “Cut it off”), how do you feel about 
 man buns?
-8.	What does vocation mean to you?
-9.	Where is your favorite study spot?
+*8.	What does vocation mean to you?
+*9.	Where is your favorite study spot? **(Consider revising/ moving)**
 10.	What is your favorite chapel day?
 11.	LOFT, yes or no? 
  
