@@ -1,0 +1,22 @@
+Business,
+Communication & Media Studies,
+Education,
+Fine Arts,
+Health Sciences,
+Humanities,
+Religion,
+Science, Technology, Engineering & Mathematics,
+Social Sciences,
+World Languages & Cultural Studies,
+
+https://calvin.edu/academics/majors-programs/?dotcmsredir=1
+
+bQuiv
+-always
+-sometimes
+-never
+
+loft
+-a
+-s
+-n

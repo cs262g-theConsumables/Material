@@ -1,0 +1,254 @@
+login as: jgb23
+jgb23@cs262.cs.calvin.edu's password:
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-38-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+Last login: Sat Dec  3 20:44:16 2016 from sutherland.cs.calvin.edu
+jgb23@cs262-16fa:~$ cd /var/cs262/TheConsumables/scripts/
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ start.sh
+start.sh: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh start.sh
+start.sh: 4: start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chmod 755 *.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh start.sh
+start.sh: 4: start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh stop.sh
+stop.sh: 4: stop.sh: source: not found
+cat: /jgb23-.pid: No such file or directory
+/usr/bin/pkill: option requires an argument -- 'P'
+
+Usage:
+ pkill [options] <pattern>
+
+Options:
+ -<sig>, --signal <sig>    signal to send (either number or name)
+ -e, --echo                display what is killed
+ -c, --count               count of matching processes
+ -f, --full                use full process name to match
+ -g, --pgroup <PGID,...>   match listed process group IDs
+ -G, --group <GID,...>     match real group IDs
+ -n, --newest              select most recently started
+ -o, --oldest              select least recently started
+ -P, --parent <PPID,...>   match only child processes of the given parent
+ -s, --session <SID,...>   match session IDs
+ -t, --terminal <tty,...>  match by controlling terminal
+ -u, --euid <ID,...>       match by effective IDs
+ -U, --uid <ID,...>        match by real IDs
+ -x, --exact               match exactly with the command name
+ -F, --pidfile <file>      read PIDs from file
+ -L, --logpidfile          fail if PID file is not locked
+ --ns <PID>                match the processes that belong to the same
+                           namespace as <pid>
+ --nslist <ns,...>         list which namespaces will be considered for
+                           the --ns option.
+                           Available namespaces: ipc, mnt, net, pid, user, uts
+
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see pgrep(1).
+There is a screen on:
+        29152.-d        (12/02/2016 03:13:47 PM)        (Detached)
+1 Socket in /var/run/screen/S-jgb23.
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ls
+env.sh  readme.txt  start-java.sh  start.sh  stop.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ start.sh
+start.sh: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$     CalvinID varchar(50) PRI                                                                                      MARY KEY NOT NULL,
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ password varchar(50) NOT NUL                                                                                      L,
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ picture BYTEA,
+picture: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ first varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ last varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ username varchar(50) NOT NUL                                                                                      L,
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ classYear varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ birthday date,
+The program 'birthday' is currently not installed. To run 'birthday' please ask                                                                                       your administrator to install the package 'birthday'
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ homeCity varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ homeState varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ homeCountry varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ major varchar(100),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ majorDepartment varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ majorNumber varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ gender varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ genderWant varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ religion varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ mbti varchar(5),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ hasJob boolean,
+hasJob: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ job varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ tulip boolean,
+The program 'tulip' is currently not installed. To run 'tulip' please ask your a                                                                                      dministrator to install the package 'tulip'
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ hangout varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ hateHope integer,
+hateHope: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ bQuiv varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ diningPreference varchar(50)                                                                                      ,
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sports varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ bunHate integer,
+bunHate: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ studySpot varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chapelDay varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ loft char(1),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ height integer,
+No command 'height' found, did you mean:
+ Command 'weight' from package 'biosquid' (universe)
+height: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ nationality varchar(50),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ vocation varchar(200),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ aboutMe varchar(200),
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ status varchar(200):q
+-bash: syntax error near unexpected token `('
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chmos +x ./start.sh
+No command 'chmos' found, did you mean:
+ Command 'chmls' from package 'fp-utils-3.0.0' (universe)
+ Command 'chaos' from package 'emboss' (universe)
+ Command 'chmod' from package 'coreutils' (main)
+chmos: command not found
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chmod +x ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ cd ..
+jgb23@cs262-16fa:/var/cs262/TheConsumables$ psql cs262gDating
+psql: FATAL:  role "jgb23" does not exist
+jgb23@cs262-16fa:/var/cs262/TheConsumables$ cd ..
+jgb23@cs262-16fa:/var/cs262$ psql cs262gDating
+psql: FATAL:  role "jgb23" does not exist
+jgb23@cs262-16fa:/var/cs262$ su postgres
+Password:
+postgres@cs262-16fa:/var/cs262$ psql cs262gDating
+psql (9.5.4)
+Type "help" for help.
+
+cs262gDating=# select * from student
+cs262gDating-# psql select * from student
+cs262gDating-# psql SELECT * FROM student
+cs262gDating-# \q
+postgres@cs262-16fa:/var/cs262$ cd ..
+postgres@cs262-16fa:/var$ psql cs262gDating
+psql (9.5.4)
+Type "help" for help.
+
+cs262gDating=# help
+You are using psql, the command-line interface to PostgreSQL.
+Type:  \copyright for distribution terms
+       \h for help with SQL commands
+       \? for help with psql commands
+       \g or terminate with semicolon to execute query
+       \q to quit
+cs262gDating=# \h
+cs262gDating=#
+cs262gDating=# \?
+cs262gDating=# \d
+          List of relations
+ Schema |   Name   | Type  |  Owner
+--------+----------+-------+----------
+ public | datedate | table | postgres
+ public | match    | table | postgres
+ public | message  | table | postgres
+ public | student  | table | postgres
+(4 rows)
+
+cs262gDating=# SELECT * FROM student
+cs262gDating-# SELECT
+cs262gDating-# psql select * from student;
+ERROR:  syntax error at or near "SELECT"
+LINE 2: SELECT
+        ^
+cs262gDating=# psql SELECT * FROM student
+cs262gDating-# psql SELECT * FROM student;
+ERROR:  syntax error at or near "psql"
+LINE 1: psql SELECT * FROM student
+        ^
+cs262gDating=# SELECT * FROM student;
+cs262gDating=# exit
+cs262gDating-# \q
+postgres@cs262-16fa:/var$ exit
+exit
+jgb23@cs262-16fa:/var/cs262$ ./start.sh
+-bash: ./start.sh: No such file or directory
+jgb23@cs262-16fa:/var/cs262$ chmod +x ./start.sh
+chmod: cannot access './start.sh': No such file or directory
+jgb23@cs262-16fa:/var/cs262$ cd TheConsumables/scripts/
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chmod +x ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./stop.sh
+There is a screen on:
+        29152.-d        (12/02/2016 03:13:47 PM)        (Detached)
+1 Socket in /var/run/screen/S-jgb23.
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start/sh
+sh: 0: Can't open ./start/sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./stop.sh
+There is a screen on:
+        29152.-d        (12/02/2016 03:13:48 PM)        (Detached)
+1 Socket in /var/run/screen/S-jgb23.
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./stop.sh
+There is a screen on:
+        29152.-d        (12/02/2016 03:13:47 PM)        (Detached)
+1 Socket in /var/run/screen/S-jgb23.
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ^C
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./stop.sh
+There is a screen on:
+        29152.-d        (12/02/2016 03:13:47 PM)        (Detached)
+1 Socket in /var/run/screen/S-jgb23.
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ chmod 755 *.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ ./start.sh
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$ sh ./start.sh
+./start.sh: 4: ./start.sh: source: not found
+[screen is terminating]
+jgb23@cs262-16fa:/var/cs262/TheConsumables/scripts$
+
